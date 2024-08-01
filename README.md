@@ -1,0 +1,6 @@
+- 👋 Hi, I'm @paulogomestn.
+- 👀 I'm interested in front-end programming languages.
+- 🌱 I'm currently learning Python.
+- 💞️ I'm looking to collaborate on front-end projects.
+- 📫 Contact: paulogomestavares2020@gmail.com
+- ⚡ Fun fact: Graduated in Business Administration and enthusiast of technology and programming, I believe that through it, companies and people can reach new levels of productivity and a better quality of life.
